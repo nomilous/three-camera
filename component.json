@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "nomilosu/three": "*",
+    "nomilous/three": "*",
     "nomilous/three-object": "*",
     "nomilous/three-math-common": "*"
   },
