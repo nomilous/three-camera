@@ -4,3 +4,5 @@ three-camera
 ============
 
 three.js - camera
+
+[base here](https://github.com/nomilous/three)
